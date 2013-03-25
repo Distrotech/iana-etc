@@ -13,3 +13,6 @@
 nicname tcp whois
 nicname udp whois
 
+sunrpc	tcp	rpcbind portmap
+sunrpc	udp	rpcbind portmap
+
